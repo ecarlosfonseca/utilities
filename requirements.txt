@@ -1,4 +1,5 @@
 certifi==2022.6.15
+langdetect @ file:///home/conda/feedstock_root/build_artifacts/langdetect_1622407545956/work
 MouseInfo==0.1.3
 Pillow==9.0.1
 PyAutoGUI @ file:///Users/runner/miniforge3/conda-bld/pyautogui_1636625301556/work
@@ -147,3 +148,4 @@ PyRect==0.2.0
 PyScreeze @ file:///home/conda/feedstock_root/build_artifacts/pyscreeze_1618749600070/work
 PyTweening==1.0.3
 rubicon-objc==0.4.2
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
