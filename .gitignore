@@ -1,0 +1,12 @@
+.DS_Store
+
+.idea
+.vscode
+.python-version
+.ipynb_checkpoints
+__pycache__
+.env
+venv
+
+.xlsx
+.csv
